@@ -14,3 +14,5 @@ The base64 payload will be a regular unix command : **id, cd, cat...**
 *http://www.example.com/popen.php?cm=ZGly*
 
 *ZGly = dir*
+
+**This tool is for educational purposes only and I am not responsible for any wrong use of the tool**
